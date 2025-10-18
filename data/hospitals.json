@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nairobi Hospital",
+    "address": "Argwings Kodhek Rd, Nairobi",
+    "latitude": -1.3004,
+    "longitude": 36.7896
+  },
+  {
+    "id": 2,
+    "name": "Kenyatta National Hospital",
+    "address": "Hospital Rd, Nairobi",
+    "latitude": -1.3001,
+    "longitude": 36.8065
+  },
+  {
+    "id": 3,
+    "name": "Aga Khan University Hospital",
+    "address": "3rd Parklands Ave, Nairobi",
+    "latitude": -1.2667,
+    "longitude": 36.8175
+  },
+  {
+    "id": 4,
+    "name": "MP Shah Hospital",
+    "address": "Shivachi Rd, Nairobi",
+    "latitude": -1.2647,
+    "longitude": 36.8122
+  },
+  {
+    "id": 5,
+    "name": "Mater Hospital",
+    "address": "Ngong Rd, Nairobi",
+    "latitude": -1.76946,
+    "longitude": 36.82150
+  }
+
+]
