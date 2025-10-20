@@ -76,7 +76,7 @@ export default function SignupScreen({ navigation }) {
             <View style={styles.logoCircle}>
               <Text style={styles.logoText}>S</Text>
             </View>
-            <Text style={styles.appName}>SynergyBlood</Text>
+            <Text style={styles.appName}>MoyoLink</Text>
             <Text style={styles.tagline}>Join Our Life-Saving Community</Text>
           </View>
 

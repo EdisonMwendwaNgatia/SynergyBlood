@@ -59,7 +59,7 @@ export default function LoginScreen({ navigation }) {
             <View style={styles.logoCircle}>
               <Text style={styles.logoText}>S</Text>
             </View>
-            <Text style={styles.appName}>SynergyBlood</Text>
+            <Text style={styles.appName}>MoyoLink</Text>
             <Text style={styles.tagline}>Connecting Lives, Saving Futures</Text>
           </View>
 
